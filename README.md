@@ -1,4 +1,4 @@
-# MERN Project - Business Company (Frontend)
+# MERN Project - Business Company (Front-end)
 
 This repository contains the frontend of a MERN stack application developed using ReactJS. <br />
 The project replaces the current sticky note system by providing an interactive web interface with features for managing employees, notes, and access control.
